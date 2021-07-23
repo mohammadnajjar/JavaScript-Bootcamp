@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Learn JavaScript</title>
+  </head>
+  <body>
+    <h1 id="elzero" style="display: none">object</h1>
+    <script>
+      let num = 3;
+
+      // Solution One
+      /*       console.log(num + +true + +true + +true); // 6
+
+      // Solution Two
+      console.log(num - -true - -true - -true); // 6
+
+      // Soultion Three
+      console.log(num + +!false + +!false + +!false); // 6
+
+      // Soultion Four
+      console.log(num - -!false - -!false - -!false); // 6
+
+      // Solution Five
+      console.log(num + (+!false + +!false) ** +!false + +!false); // 6
+
+      // Solution Six
+      console.log(num + (+true + +true) ** +true + +true); // 6 */
+      // Solution One
+      console.log(num + +true * (+true + +true + +true)); // 6
+
+      // Solution Two
+      console.log(num + +!false * (+!false + +!false + +!false)); // 6
+
+      // Soultion Three
+      console.log(num + +true + +true + +true); // 6
+
+      // Soultion Four
+      console.log(num + +!false + +!false + +!false); // 6
+
+      // Solution Five
+      console.log(num * (+true + +true)); // 6
+
+      // Solution Six
+      console.log(num + (+true + +true) ** +true + +true); // 6
+    </script>
+  </body>
+</html>
