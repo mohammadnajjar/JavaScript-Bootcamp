@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1de4632-53de-47cb-a779-a6465afcd317" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/048 - Loop – For and The Concept Of Loop/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/048 - Loop – For and The Concept Of Loop/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/049 - Loop On Sequences/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/049 - Loop On Sequences/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/050 - Nested Loops And Trainings/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/050 - Nested Loops And Trainings/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/051 - Loop Control – Break, Continue, Label/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/051 - Loop Control – Break, Continue, Label/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/052 - Loop For – Advanced Example/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/052 - Loop For – Advanced Example/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/053 - Practice – Add Products To Page/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/053 - Practice – Add Products To Page/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/054 - Loop – While/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/054 - Loop – While/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/055 - Loop – Do, While/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/055 - Loop – Do, While/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/056 - Loop Challenge/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/056 - Loop Challenge/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript-Bootcamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tm/035 - Conditional Ternary Operator/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/tm/035 - Conditional Ternary Operator/script.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1wztt1drJfVRsmfQFxyj5hRfHAU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1de4632-53de-47cb-a779-a6465afcd317" name="Changes" comment="" />
+      <created>1629473458733</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629473458733</updated>
+      <workItem from="1629473460690" duration="21000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

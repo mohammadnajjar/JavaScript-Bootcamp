@@ -14,7 +14,8 @@ if (theGender === "Male") {
 
 // Condition ? If True : If False
 
-theGender === "Male" ? console.log("Mr") : console.log("Mrs");
+
+
 
 let result = theGender === "Male" ? "Mr" : "Mrs";
 
